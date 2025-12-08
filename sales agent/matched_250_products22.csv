@@ -1,0 +1,246 @@
+product_id,product_name,aisle_id,department_id
+13,Saline Nasal Mist,11,11
+45,European Cucumber,83,4
+48,"School Glue, Washable, No Run",87,17
+52,Mirabelle Brut Rose,134,5
+57,Flat Toothpicks,111,17
+84,Lamb Shank,7,12
+85,Soppressata Piccante,96,20
+105,"Easy Grab 9\""x13\"" Oblong Glass Bakeware",10,17
+119,Chardonnay Paso Robles,62,5
+120,Cauliflower Florettes,123,4
+127,Marscapone,108,16
+131,Brioche Bachelor Loaf,93,3
+136,Simple,45,19
+138,Olli Napoli Salami,96,20
+146,Anti Diarrheal Caplets,70,11
+148,Nectarines,24,4
+155,Artisan Ciabatta,58,1
+161,Hacho Miso Aged & Fermented Soybeans,66,6
+168,Halves & Pieces Walnuts,17,13
+194,Lamb Rib Chops,122,12
+201,Sloppy Joe,38,1
+234,Tennessee Whiskey,124,5
+260,Cantaloupe,24,4
+268,Sponge Mop,114,17
+271,TAI PEI      14OZ.SWEET & SOUR CHKN,38,1
+394,Aquaphor Healing Ointment,127,11
+401,"Flat Floss, Antiplaque, Naturally Waxed, Spearmint",20,11
+430,Born Yesterday Pale Ale,27,5
+436,Petite Brussels Sprouts,116,1
+468,Kabocha Squash,83,4
+476,Chub Mackerel,95,15
+487,"Can/Bottle Opener, Chrome",10,17
+489,Dough for Turnover Pastries,58,1
+500,Non-Scratch Scrub Sponges,114,17
+511,Lecithin Granules Non-GMO,47,11
+514,Freezer Safe Pint Jars Wide Mouth,85,17
+530,7UP,77,7
+535,Rescue Remedy,6,2
+551,"Riesling, Mosel, 2014",62,5
+555,Even The Kitchen Sink Kitchen & Bath Scrubber,114,17
+577,Liqui-Gels Softgels Dye-Free Allergy,11,11
+578,"10\"" Bamboo Skewers",10,17
+580,Washington State Merlot,28,5
+616,Silken Tofu,14,20
+619,Spanish Peanuts,117,19
+624,Chub Chorizo,100,21
+638,Won Ton Wrappers,66,6
+648,Elbow Macaroni,131,9
+663,Pico De Gallo,67,20
+665,Imitation Crabmeat,15,12
+669,The Santa Cruz Burrito,38,1
+674,Sponge Blossoms,114,17
+676,Sunset Blush,6,2
+692,Skirt Steak,122,12
+693,Tropical Brain Toniq,64,7
+728,"Wraps, Turmeric",128,3
+740,Celery Heart,123,4
+748,Romaine,123,4
+780,Breadstick,112,3
+783,Mega Mag,47,11
+803,Heirloom Boysenberries,116,1
+804,Ratatouille,100,21
+828,Euro Sponge Cloths,114,17
+833,Hearts Assortment,45,19
+839,Glass Bottles,77,7
+844,Polska Kielbasa,106,12
+855,Clamato Chelada Beer,27,5
+857,Grilled Asparagus,123,4
+861,Every Woman Multivitamin,47,11
+864,Stainless Steel Strainer,10,17
+906,Chamomilla 30 C,47,11
+927,"Cabernet Sauvignon, Central Coast, 2011",28,5
+943,Magnesium Citrate Caplets,47,11
+948,Superior Spot & Film Protection Jet-Dry Dishwasher Rinse Aid,74,17
+960,Villager Ipa,27,5
+964,Toothpicks,87,17
+973,8 X 6 Cutting Board,10,17
+978,Mallow Oats Cereals,121,14
+1000,Apricots,18,10
+1022,Marshmallow,88,13
+1030,Hop Devil IPA,27,5
+1051,"Silverware, Metallic",111,17
+1065,Freshmints,46,19
+1071,Pils,27,5
+1074,German Bologna,96,20
+1085,Sazon Con Azafran,30,6
+1101,Seasonal Tamale,30,6
+1105,Nag Champa Incense,101,17
+1107,No Scratch Scrubber Sponges,114,17
+1119,Street Tacos,42,1
+1126,Estilo Casero Tostadas,128,3
+1127,Frizz Ease Curl Reviver Mousse,22,11
+1138,Pork Tenderloin,7,12
+1146,Quality Kraut,110,13
+1147,"Pop Up Notes, 3\"" X 3\""",87,17
+1160,Pinot Grigio,62,5
+1189,Manual Toothbrush,20,11
+1219,Grapes,24,4
+1223,Cockroach Killing Bait Strips,87,17
+1251,Whole Pickled Beets,81,15
+1252,Whole Coriander,104,13
+1286,Apricot Preserve,88,13
+1296,Sink Strainer,10,17
+1305,Vintner's Reserve Johannisberg Riesling,62,5
+1339,Xylitol,17,13
+1345,"Merlot, Alexander Valley, Sonoma County, 2009",28,5
+1375,Disposable 5 Blade Razors,55,11
+1382,Tequila Blanco,124,5
+1384,Mang-O-Rita Margarita With A Twist,27,5
+1390,Sweeper Floor Mop Starter Kit,114,17
+1401,Relax Riesling,62,5
+1421,Canning Jar,85,17
+1470,Elastic Bandage With Clips for Customized Compression,118,11
+1476,Gummi Bears,45,19
+1483,Pimento Martini Olives,110,13
+1507,Positively Radiant Brightening Cleanser,73,11
+1528,Sprinkles Decors,97,13
+1539,Cauliflower head,83,4
+1568,Carpet Stain Eraser,114,17
+1596,Anti Microbial Cotton Swabs,44,11
+1629,Migraine Caplets,133,11
+1635,Whole Cashews,117,19
+1641,Titanium Smooth Razors,55,11
+1690,Platinum Merlot,28,5
+1703,Umeboshi Paste,66,6
+1731,Terra Dolce Chiles Anchos,50,19
+1739,Anaheim Peppers,83,4
+1754,Folic Acid 400 Mcg,47,11
+1796,Croissant,93,3
+1808,Champagne,134,5
+1813,Sodel Alm Mlk Wlnut 48,91,16
+1815,Parmigiano Reggiano Breadsticks,21,16
+1847,Fondant & Icing,97,13
+1856,HPA Lanolin,82,18
+1857,Melon Liqueur,124,5
+1879,Seedlander Crispbreads,128,3
+1906,"Toothpaste, Fluoride-Free, Propolis & Myrrh, Fennel",20,11
+1920,Platanos Maduros Ripe Plantains,129,1
+1931,Happy Birthday Candles,97,13
+1947,Tulips 10 Stem,87,17
+1951,La Cubana Meal,13,20
+1956,Scallions,83,4
+1984,Splash Cooler,98,7
+1993,Cheesecake,8,3
+2001,Casareccia,131,9
+2003,Easy Open Cap Ibuprofen,133,11
+2018,Onion&Bacon Ketchup,72,13
+2021,Pearled Farro,63,9
+2028,Aspirin 325mg,133,11
+2036,Mediterranean Scramble,86,16
+2049,Malbec Mendoza,28,5
+2058,4# Bag Navel Oranges,123,4
+2072,Psyllium Husks Veg Caps 625 Mg,70,11
+2108,Pastured Eggs,86,16
+2112,"Peppercorns, Rainbow",104,13
+2138,Whole Bay Leaves,6,2
+2144,Doritos,107,19
+2150,"Sauvignon Blanc, Mendocino, 2007",62,5
+2157,Detailer 2-Sided Shower Tool,127,11
+2173,Soleil Bella Flexible Blades,55,11
+2177,Eye Drops for Contact Lenses,44,11
+2183,Meatless and Soy-Free Meatballs,42,1
+2219,Quartered And Marinated Artichoke Hearts,81,15
+2230,Power Source Grounding Strip Tap 6 Outlets,87,17
+2251,Ruby Port,134,5
+2266,Brie Couronne,108,16
+2267,Dal Tadka Lentil Curry,76,6
+2289,Quick 5-Minute Grits,130,14
+2292,Shoestring Beets,81,15
+2293,Quart Storage Reclosable,85,17
+2296,"Notebook, 3 Subject, College Rule, 120 Sheets",87,17
+2303,Non Scratch Dishwand Refills,114,17
+2306,VentAire Wide Bottle,82,18
+2308,Bubblemint Gum,46,19
+2310,Perfecto,67,20
+2325,Hippie Hemp Truffles,45,19
+2330,Prostate +,47,11
+2349,Pull Ups Girls Learning Designs Training Pants,56,18
+2352,Canine Cuisine with Lamb in Meaty Juices,40,8
+2355,Cushioned Nail Board,132,11
+2360,Lorraine Quiche,13,20
+2365,Boneless Whole Pork Chops,112,3
+2372,Smores Drumstick,37,1
+2387,Pinot Noir Monterey,28,5
+2392,Sensor 2 Razors,55,11
+2433,Meyer Lemons,24,4
+2437,Healing Ointment Tube,127,11
+2445,Powerball Max in 1 Shine & Protect,74,17
+2447,3 lb Clementines,123,4
+2462,Rainbow Trout Fillet,39,12
+2467,Mini-Brushes with Beads Peppermint,20,11
+2473,West Soymilk,91,16
+2494,Copper Coated Scrubbing Pads,114,17
+2496,Bockwurst,106,12
+2500,Cava,134,5
+2501,Bath Effervescents For Sore Muscles,127,11
+2510,Small Household Gloves,114,17
+2528,Cluckin' Good Stew,40,8
+2534,PM Acetaminophen Caplets,133,11
+2560,Witch Hazel USP,118,11
+2569,Cashmere Woods Candle,101,17
+2590,Grand Brut Champagne,134,5
+2605,Boiler Onions,83,4
+2608,Taste Of Asia Tonkotsu Pork,100,21
+2614,Tucks Medicated Cooling Pads,70,11
+2625,Loaf Pans,97,13
+2636,Laxative Unflavored,70,11
+2651,Mayonnaise,72,13
+2659,Cod Fillet,39,12
+2662,Activated Quercetin,47,11
+2664,First Prunes,92,18
+2682,Rosy Lip Therapy,73,11
+2690,Chill Pill,101,17
+2697,Mendocino Chardonnay,62,5
+2701,"Uplift, Balance & Calm Essential Oils",19,13
+2704,Tofu Rancheros,52,1
+2728,Originale Amaretto,124,5
+2735,Pork Loin Back Ribs,7,12
+2744,Pint Mason Jars,97,13
+2804,Sport Performance Coolzone,127,11
+2827,24 Hr Acid Reducer,70,11
+2877,Petit Pois Peas,81,15
+2889,Cornish Game Hen,49,12
+2902,Shitake Mushrooms,81,15
+2904,USA Endive Lettuce,83,4
+2906,Saline Spray/Drops For Noses,11,11
+2919,Cracked Peppercorn Tilapia,34,1
+2920,Aged Mahon,2,16
+2925,Thirsty Strong And Absorbent Paper Towels,54,17
+2937,Crema Casera,21,16
+2986,Hemorrhoidal Ointment,70,11
+2993,Spanish Padron Peppers,123,4
+3005,Soak Proof Foam Plates,111,17
+3010,Whole Cardamom,104,13
+3016,Cornichons Gherkins,110,13
+3037,Nestle Drumstick Sundae,37,1
+3043,Wooden Foot File,6,2
+3106,Tellicherry Peppercorns,104,13
+3147,Canning Jar Set,10,17
+3188,Chayote,83,4
+3204,Ignatia Amara 30 C,47,11
+3209,Itches & Rashes,118,11
+3215,Coastal Pinot Noir,28,5
+3227,Avocado Slicer,100,21
+3228,Szechuan,66,6
