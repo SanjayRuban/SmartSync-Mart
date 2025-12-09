@@ -1,0 +1,4 @@
+body { background: #f6f8fb; margin: 0; color: #111827; font-family: Inter, Arial, sans-serif; }
+input { padding: 6px 8px; border-radius: 6px; border: 1px solid #cbd5e1; }
+button { padding: 6px 10px; border-radius: 6px; border: none; cursor: pointer; }
+pre { background: #f3f4f6; padding: 12px; border-radius: 6px;}
