@@ -1,3 +1,6 @@
+demo video:
+https://drive.google.com/file/d/1ylgxlGuPi-VqPD8teCAmaxiR97chdHW1/view?usp=sharing
+
 # SmartSync-Mart
 SmartSync Mart is an AI-driven retail orchestration system that unifies sales, marketing, inventory, logistics, and customer engagement. With intelligent agents, real-time data syncing, and personalized flows, it delivers smarter offers, faster fulfillment, and seamless omni-channel shopping.
 🔧 Backend Architecture: 8 AI Agents + Smart Kiosk Engine
